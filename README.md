@@ -193,7 +193,7 @@ mysql>
 
 ### 📷 1. Azure Resource Group
 
-`./screenshots/resource-group.png`
+(./screenshots/resource-group.png)
 
 ### 📷 2. Virtual Network + Subnets
 
