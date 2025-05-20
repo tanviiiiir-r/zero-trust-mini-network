@@ -193,39 +193,39 @@ mysql>
 
 ### 📷 1. Azure Resource Group
 
-`/screenshots/resource-group.png`
+`./screenshots/resource-group.png`
 
 ### 📷 2. Virtual Network + Subnets
 
-`/screenshots/vnet-subnet.png`
+`./screenshots/vnet-subnet.png`
 
 ### 📷 3. Web Server VM Overview
 
-`/screenshots/vm-overview-web.png`
+`./screenshots/vm-overview-web.png`
 
 ### 📷 4. DB Server VM Overview
 
-`/screenshots/vm-overview-db.png`
+`./screenshots/vm-overview-db.png`
 
 ### 📷 5. NSG Rules – Web Server
 
-`/screenshots/nsg-web.png`
+`./screenshots/nsg-web.png`
 
 ### 📷 6. NSG Rules – DB Server
 
-`/screenshots/nsg-db.png`
+`./screenshots/nsg-db.png`
 
 ### 📷 7. Serial Console Access to DB
 
-`/screenshots/serial-console.png`
+`./screenshots/serial-console.png`
 
 ### 📷 8. MySQL `bind-address` Configuration
 
-`/mysql-config/bind-address.png`
+`./mysql-config/bind-address.png`
 
 ### 📷 9. MySQL CLI Login Prompt
 
-`/screenshots/mysql-connection.png`
+`./screenshots/mysql-connection.png`
 
 ---
 
