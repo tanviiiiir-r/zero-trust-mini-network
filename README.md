@@ -215,7 +215,7 @@ mysql>
 ### 📷 8. MySQL `bind-address` Configuration
 ![MySQL Bind](screenshots/bind-address.png)
 
-### 📷 9. (Optional) MySQL CLI Login Prompt
+### 📷 9. MySQL CLI Login Prompt
 ![MySQL Connection](screenshots/mysql-connection.png)
 
 ---
@@ -229,17 +229,6 @@ This project demonstrates:
 * Hands-on NSG rule creation
 * Real Linux server config experience
 * Live secure connection testing
-
----
-
-## 🔮 What's Next
-
-This Zero Trust network is **modular** and can be extended with:
-
-* 🧠 Quantum AI intrusion detection (QML-IDS)
-* 🔐 Quantum-safe encrypted log tunnels
-* 📊 Streamlit dashboard for security visibility
-* 📦 Containerization (Docker + Wazuh/Suricata)
 
 ---
 
